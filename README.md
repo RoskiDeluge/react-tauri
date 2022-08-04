@@ -12,8 +12,8 @@ It's an example of Tauri based Cross-Platform React Application. Way smaller tha
 Install Rustc, cargo, nodejs, yarn as in following guides
 
 - Windows: https://github.com/tauri-apps/tauri/wiki/04.-MS-Windows-Setup
-- MacOS:   https://github.com/tauri-apps/tauri/wiki/03.-MacOS-Setup
-- Linux:   https://github.com/tauri-apps/tauri/wiki/02.-Linux-Setup
+- MacOS: https://github.com/tauri-apps/tauri/wiki/03.-MacOS-Setup
+- Linux: https://github.com/tauri-apps/tauri/wiki/02.-Linux-Setup
 
 Install Tauri-cli with `npm install tauri -g` or `yarn global tauri`
 
@@ -22,10 +22,4 @@ Install Tauri-cli with `npm install tauri -g` or `yarn global tauri`
 In main folder run `npm i` or `yarn`
 After installation is done run `npm start`
 
-Then in another terminal tab/window run `tauri dev`
-
-## Demo 
-https://github.com/mdtanrikulu/react-tauri/releases/tag/demo
-
-## Preview
-![react-tauri](https://user-images.githubusercontent.com/2774845/75100387-44d9c300-55cd-11ea-90fa-83a516183531.gif)
+Then in another terminal tab/window run `npm run tauri dev`
